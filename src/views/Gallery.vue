@@ -157,7 +157,6 @@ export default {
 
 .view
   height 100%
-  min-height 540px
   display flex
   align-items stretch
   transition 600ms cubic-bezier(0.25, 0.46, 0.45, 0.94)
